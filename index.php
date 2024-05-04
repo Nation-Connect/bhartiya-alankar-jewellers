@@ -28,7 +28,7 @@
         <section class="container">
             <div class="row">
                 <div class="col-md-8 novelties-image">
-                    <img src="assets/l_471x487_aqua.png" alt="unavailable">
+                    <img src="assets/silverbracelet.png" alt="unavailable">
                 </div>
                 <div class="col-md-4 novelties">
                     <h4>Novelties</h4>
