@@ -3,7 +3,7 @@
 
 <head>
     
-    <title>Gallery - Mivaan Fine Jewels</title>
+    <title>Gallery - Bhartiya Alankar Jewellers</title>
         <!-- <link rel="shortcut icon" href="assets/logo.png" style="background-color:#666"> -->
   <?php
     include 'head.php';
@@ -36,14 +36,14 @@
             </div>
             <div class="gallery-contents">
                 <div class="gallery-filter-btns">
-                    <button class="btn btn-mivaan-o active" id="all">All</button>
-                    <!-- <button class="btn btn-mivaan-o" id="gold">Gold</button> -->
-                     <button class="btn btn-mivaan-o" id="necklace">Necklace</button>
-                    <button class="btn btn-mivaan-o" id="antique">Antique</button>
-                    <button class="btn btn-mivaan-o" id="ear_rings">Ear Rings</button>
-                    <button class="btn btn-mivaan-o" id="rings">Rings</button>
-                    <button class="btn btn-mivaan-o" id="bangles">Bangles</button>
-                     <button class="btn btn-mivaan-o" id="silver">Silver</button>
+                    <button class="btn btn-Bhartiya-o active" id="all">All</button>
+                    <!-- <button class="btn btn-Bhartiya-o" id="gold">Gold</button> -->
+                     <button class="btn btn-Bhartiya-o" id="necklace">Necklace</button>
+                    <button class="btn btn-Bhartiya-o" id="antique">Antique</button>
+                    <button class="btn btn-Bhartiya-o" id="ear_rings">Ear Rings</button>
+                    <button class="btn btn-Bhartiya-o" id="rings">Rings</button>
+                    <button class="btn btn-Bhartiya-o" id="bangles">Bangles</button>
+                     <button class="btn btn-Bhartiya-o" id="silver">Silver</button>
                 </div>
                 <div class="row about-jewel-type" id="aboutJewel"></div>
                 <div class="row images" id="galleryItems"></div>

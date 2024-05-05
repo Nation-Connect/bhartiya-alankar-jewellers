@@ -4,7 +4,7 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
     
-    <title>Contact us - Mivaan Fine Jewels</title>
+    <title>Contact us - Bhartiya Fine Jewels</title>
         <!-- <link rel="shortcut icon" href="assets/logo.png" style="background-color:#666"> -->
         <?php
     include 'head.php';
@@ -107,7 +107,7 @@ function sendEmail() {
                         <textarea rows="3" class="form-control" id="message" placeholder="Your Message"></textarea>
                     </div>
                     <div class="text-center">
-                        <input type="button" class="btn btn-mivaan" value="Submit" onclick="sendEmail()">
+                        <input type="button" class="btn btn-Bhartiya" value="Submit" onclick="sendEmail()">
                     </div>
                 </form>
             </div>
