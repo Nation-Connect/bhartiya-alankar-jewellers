@@ -17,7 +17,7 @@
 India</p>
                         <p>Phone: +919693428119
 +919308679989</p>
-<p>Email : info@......</p>
+<p>Email : info@bhartiyaalankarjewellers.com</p>
 
 
                     </div>

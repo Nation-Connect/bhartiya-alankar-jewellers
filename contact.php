@@ -36,8 +36,8 @@ function sendEmail() {
    
     Email.send({
     SecureToken : "329f112689397873b0026bd0d04e73",
-    To : 'arjun@tudohnologies.com',
-    From : "info@mivanfinejewels.com",
+    To : 'info@bhartiyaalankarjewellers.com',
+    From : "info@bhartiyaalankarjewellers.com",
     Subject : "New Contact Us Message!",
     Body : "<html><h2>Contact us Web</h2><strong>"+message+"</strong><br></br><em>Italic</em></html>"
     }).then(

@@ -95,7 +95,7 @@ Every piece of exquisite jewelry is a work of art, created and crafted from expe
                         <p>Your vision, our expertise, our stunning jewelry is sure to please. We offer the best in customized bespoke jewelry. If you have a vision in mind we will bring it life with help of our master jewelers. Custom designing with us is more than a process - it's an experience. 
                         </p>
                         <br>
-                        <a href="contact.php">info@mivaanfinejewels.com</a>
+                        <a href="contact.php">info@bhartiyaalankarjewellers.com</a>
                     </div>
                     <div class="col footer-info-contents">
                         <h4>Expertise</h4>
