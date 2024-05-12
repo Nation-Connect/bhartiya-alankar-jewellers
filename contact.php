@@ -4,7 +4,7 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
     
-    <title>Contact us - Maa Vaishno Jewellers</title>
+    <title>Contact us - Mivaan Fine Jewels</title>
         <!-- <link rel="shortcut icon" href="assets/logo.png" style="background-color:#666"> -->
         <?php
     include 'head.php';
@@ -36,8 +36,8 @@ function sendEmail() {
    
     Email.send({
     SecureToken : "329f112689397873b0026bd0d04e73",
-    To : '      ',
-    From : "      ",
+    To : 'arjun@tudohnologies.com',
+    From : "info@mivanfinejewels.com",
     Subject : "New Contact Us Message!",
     Body : "<html><h2>Contact us Web</h2><strong>"+message+"</strong><br></br><em>Italic</em></html>"
     }).then(
@@ -73,9 +73,13 @@ function sendEmail() {
             <section class="container">
 
 
-            <div class="mapouter" style="width: 100%;"><div class="gmap_canvas" style="width: 100%;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3561.205620972707!2d84.50414811066528!3d26.801580676616386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39936f4434707533%3A0xd7d5297719368036!2sMAA%20VAISHNO%20JEWELLERS!5e0!3m2!1sen!2sin!4v1715475573968!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div><style>.mapouter{position:relative;text-align:right;height:500px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style></div>
+            <div class="mapouter" style="width: 100%;"><div class="gmap_canvas" style="width: 100%;"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3597.680298143696!2d85.14708821062156!3d25.61553767735001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39ed58f7b133661d%3A0x6797d517fe81d99d!2sBHARTIYA%20ALANKAR%20JEWELLERS!5e0!3m2!1sen!2sin!4v1714756512265!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div><style>.mapouter{position:relative;text-align:right;height:500px;width:100%;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:100%;}</style></div>
 
+    
 
+         <!-- <div style="display: flex;width: 100%;justify-content: center;margin: 30px 10px;">
+           <div class="mapouter" style="width:100%"><div class="gmap_canvas" style="width:100%"><a href="https://www.whatismyip-address.com/nordvpn-coupon/">nord vpn code</a></div><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div>
+        </div> -->
     </section>
 
         <section class="container contact"  id="contact-us">
@@ -103,7 +107,7 @@ function sendEmail() {
                         <textarea rows="3" class="form-control" id="message" placeholder="Your Message"></textarea>
                     </div>
                     <div class="text-center">
-                        <input type="button" class="btn btn-Bhartiya" value="Submit" onclick="sendEmail()">
+                        <input type="button" class="btn btn-mivaan" value="Submit" onclick="sendEmail()">
                     </div>
                 </form>
             </div>

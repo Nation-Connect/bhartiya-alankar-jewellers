@@ -12,7 +12,7 @@ a {
     color: #f7bc58 !important;
 }
 
-.btn-Bhartiya {
+.btn-mivaan {
     background-color: #ae8235;
     border: 0;
     width: 100px;
@@ -20,7 +20,7 @@ a {
     color: #ffffff;
 }
 
-.btn-Bhartiya:hover {
+.btn-mivaan:hover {
     background-color: #c4aa65;
     color: #ffffff;
 }
@@ -96,7 +96,7 @@ a {
 .featured {
     width: 100%;
     height: calc(100vh - 165px);
-    background-image: url('../assets/bhartiya.jpg');
+    background-image: url('../assets/mivaan-jumbotron.jpg');
     background-size: cover;
     background-position: 0 -280px;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@ a {
 }
 
 .home-content {
-    background-image: url('../assets/bhartiya1.png');
+    background-image: url('../assets/mivaan-jumbotron2.jpg');
     height: 400px;
     background-size: cover;
     background-position: 0 -380px;
@@ -306,16 +306,16 @@ footer .footer-address p {
 }
 
 /* media */
-.Bhartiya-media .media-content img {
+.mivaan-media .media-content img {
     width: 100%;
     margin-bottom: 20px;
 }
 
-.Bhartiya-media .media-content h4 {
+.mivaan-media .media-content h4 {
     color: #af2d58;
 }
 
-.Bhartiya-media .media-content:last-child {
+.mivaan-media .media-content:last-child {
     margin-bottom: 20px;
 }
 
@@ -381,12 +381,12 @@ footer .footer-address p {
     width: 70%;
 }
 
-.btn-Bhartiya-o {
+.btn-mivaan-o {
     width: 100px;
     border: 1px solid #f7bc58;
 }
 
-.btn-Bhartiya-o.active {
+.btn-mivaan-o.active {
     background: #f7bc58;
 }
 

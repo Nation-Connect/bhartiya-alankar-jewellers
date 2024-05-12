@@ -3,7 +3,6 @@
         </header>
 
         <nav class="navigation">
-        <a href="index.php">Home</a>
             <a href="about.php">About Us</a>
             <!-- <a href="media.php">Media</a> -->
             <a href="gallery.php">Gallery</a>
