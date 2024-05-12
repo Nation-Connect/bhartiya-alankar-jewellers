@@ -7,7 +7,7 @@
   
 
 <!-- End Google Tag Manager -->
-    <title>About - Bhartiya Alankar Jewellers</title>
+    <title>About - Maa Vaishno Jewellers</title>
         <!-- <link rel="shortcut icon" href="assets/logo.png" style="background-color:#666"> -->
         <?php
     include 'head.php';
@@ -34,8 +34,8 @@
         <section class="who-we-are container about">
             <div class="row heading">
                 <div class="container text-center">
-                    <h4>Bhartiya Alankar Jewellers who?</h4>
-                    <p>Bhartiya Alankar Jewellers brings you the finest artisanal jewelry and silver pieces, inspired by tradition and crafted with care. From stunning rings and earrings to elegant bracelets and necklaces, our collection also includes exquisite home decor and intricately designed mandirs. we are excel in creating antique jewelry, making us a preferred destination for both classic and modern designs.</p>
+                    <h4>Maa Vaishno Jewellers who?</h4>
+                    <p>Maa Vaishno Jewellers brings you the finest artisanal jewelry and silver pieces, inspired by tradition and crafted with care. From stunning rings and earrings to elegant bracelets and necklaces, our collection also includes exquisite home decor and intricately designed mandirs. we are excel in creating antique jewelry, making us a preferred destination for both classic and modern designs.</p>
                 </div>
             </div>
             <div class="row images">
@@ -46,9 +46,9 @@
             <div class="row content justify-content-md-center">
                 <div class="col-md-8">
                     <div class="container text-center">
-                        <h3>History of Bhartiya Alankar Jewellers and Customer Satisfaction.</h3>
+                        <h3>History of Maa Vaishno Jewellers and Customer Satisfaction.</h3>
                         <p>
-Bhartiya Alankar Jewellers crafts stunning jewellery, from Gold Bangles to Bridal sets and Gold Rings, each piece exuding elegance. Our range includes silver, gold pendants, and more, all boasting unique designs and top-notch quality. Established in 1982, we're a trusted Retailer, offering creative masterpieces at affordable rates.
+Maa Vaishno Jewellers crafts stunning jewellery, from Gold Bangles to Bridal sets and Gold Rings, each piece exuding elegance. Our range includes silver, gold pendants, and more, all boasting unique designs and top-notch quality. Established in 1982, we're a trusted Retailer, offering creative masterpieces at affordable rates.
 
                     
                         </p>
@@ -75,12 +75,12 @@ Bhartiya Alankar Jewellers crafts stunning jewellery, from Gold Bangles to Brida
                     <div class="col passion-col">
                         <h4>Vision</h4>
                         <p>
-At Bhartiya Alankar Jewellers, we transform dreams into reality with elaborate, handcrafted jewelry of impeccable design. Choose from our unique ready-made collection or personalize your piece with our specialized customization services<br><br></p>
+At Maa Vaishno Jewellers, we transform dreams into reality with elaborate, handcrafted jewelry of impeccable design. Choose from our unique ready-made collection or personalize your piece with our specialized customization services<br><br></p>
                     </div>
                     <div class="col style-col">
                         <h4>Mission</h4>
                         <p>
-                        At Bhartiya Alankar Jewellers, our mission is to prioritize customer satisfaction and uphold exemplary business ethics. We are dedicated to maintaining the highest standards of integrity and transparency throughout the jewelry design and purchase process
+                        At Maa Vaishno Jewellers, our mission is to prioritize customer satisfaction and uphold exemplary business ethics. We are dedicated to maintaining the highest standards of integrity and transparency throughout the jewelry design and purchase process
 
                         </p>
                     </div>

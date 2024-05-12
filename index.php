@@ -7,7 +7,7 @@
     <!-- Google Tag Manager -->
 
 <!-- End Google Tag Manager -->
-    <title>Bhartiya Alankar Jewellers</title>
+    <title>Maa Vaishno Jewellers</title>
     <?php
     include 'head.php';
     ?>
@@ -34,7 +34,7 @@
                     <h4>Uniqueness</h4>
                     <h5>Discover Uniqueness in Elegant Craftsmanship <br>Handcrafted to Perfection
 </h5>
-                    <p>At Bhartiya Alankar Jewellers, we believe jewelry is crafted to adorn, not just be seen. Try on our sparkling pieces and find the ones that truly speak to you from our dazzling collection.
+                    <p>At Maa Vaishno Jewellers, we think of jewelry as something that's made to beautify, not just to look at. When you try on our shiny pieces, you'll discover the ones that really connect with you from our stunning collection.
 </p>
                     <span>
                         <a href="gallery.php">Find your jewellery</a>
@@ -48,7 +48,7 @@
                 <div class="row">
                     <div class="col-md-5 content-data content-data-tab"> 
                         <h4>Art in the jewellery world</h4>
-                        <p>Jewelry, spanning generations, endures as cherished family heirlooms. Crafted from experiences, each piece is a timeless work of art, evoking stories and memories. Bhartiya Alankar Jewellers presents jewelry by seasoned artists, masters of their craft, ready to adorn and inspire.
+                        <p>Jewelry lasts through generations, holding memories close. Each piece, a timeless art, carries stories. At Maa Vaishno Jewellers, our seasoned artists create inspiring pieces to adorn you.
 </p>
                     </div>
                     <div class="col-md-7"></div>
@@ -85,19 +85,19 @@
                 <div class="row">
                     <div class="col footer-info-contents">
                         <h4>Exclusivity</h4>
-                        <p>Exclusivity is our strength. Each chosen creation is truly one-of-a-kind, an exclusive masterpiece crafted with precision by our skilled artisans, showcasing their exceptional craftsmanship. </p>
+                        <p>We specialize in exclusivity. Every piece is unique, crafted meticulously by skilled artisans, showcasing their exceptional talent. </p>
                         <a href="gallery.php">View the recommendations</a>
                     </div>
                     <div class="col footer-info-contents">
                         <h4>Customisation</h4>
-                        <p>Your dream, our skill—our exquisite jewelry promises satisfaction. Experience the pinnacle of customized luxury with our master jewelers, transforming your vision into reality. Custom design with us transcends mere process; it's an unforgettable journey.
+                        <p>Dreams meet expertise in our exquisite jewelry, ensuring satisfaction. With our master jewelers, turn your vision into reality, transcending mere process into an unforgettable journey of customized luxury.
                         </p>
                         <br>
                         <a href="contact.php">info@........</a>
                     </div>
                     <div class="col footer-info-contents">
                         <h4>Expertise</h4>
-                        <p>We offer the wisdom of nine decades' experience alongside a seamless fusion of traditional and modern. Our craftsmanship merges timeless techniques with contemporary flair, ensuring exquisite jewelry creations.         </p>
+                        <p>With nine decades of experience, we blend tradition and modernity seamlessly. Our craftsmanship combines timeless techniques with contemporary style, crafting exquisite jewelry.         </p>
                         <br>
                         <a href="contact.php">Find our store</a>
                     </div>

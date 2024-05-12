@@ -3,7 +3,7 @@
 
 <head>
     
-    <title>Gallery - Bhartiya Alankar Jewellers</title>
+    <title>Gallery - Maa Vaishno Jewellers</title>
         <!-- <link rel="shortcut icon" href="assets/logo.png" style="background-color:#666"> -->
   <?php
     include 'head.php';
