@@ -1,5 +1,5 @@
 
-console.log('Mivaan Fine Jewels!!');
+console.log('Bhartiya Fine Jewels!!');
 
 $(document).ready(function() {
     
@@ -87,7 +87,7 @@ function setCollectionTypeContent(selectedType){
 
 function filterCollections(c) {
     
-    let btns = document.getElementsByClassName('btn-mivaan-o');
+    let btns = document.getElementsByClassName('btn-Bhartiya-o');
     for(let j=0; j<btns.length; j++) {
         if(btns[j].id === c) {
             btns[j].classList.add('active');

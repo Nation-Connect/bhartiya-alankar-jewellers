@@ -31,11 +31,10 @@
                     <img src="assets/silverbracelet.png" alt="unavailable">
                 </div>
                 <div class="col-md-4 novelties">
-                    <h4>Novelties</h4>
-                    <h5>Elegant Craftsmanship <br>Handcrafted to Perfection
+                    <h4>Uniqueness</h4>
+                    <h5>Discover Uniqueness in Elegant Craftsmanship <br>Handcrafted to Perfection
 </h5>
-                    <p>We at Mivaan believe that jewelry is crafted not to be just viewed at, but to be tried on to bring them sparkling back to life. 
-With this in mind we invite you to experience our glittering array of jewelry and pick only the ones that truly speak to you.
+                    <p>At Bhartiya Alankar Jewellers, we believe jewelry is crafted to adorn, not just be seen. Try on our sparkling pieces and find the ones that truly speak to you from our dazzling collection.
 </p>
                     <span>
                         <a href="gallery.php">Find your jewellery</a>
@@ -49,8 +48,7 @@ With this in mind we invite you to experience our glittering array of jewelry an
                 <div class="row">
                     <div class="col-md-5 content-data content-data-tab"> 
                         <h4>Art in the jewellery world</h4>
-                        <p>Jewelry through the ages has been one of the most lasting pieces of art which is passed on through generations as a family heirloom.
-Every piece of exquisite jewelry is a work of art, created and crafted from experiences and inspirations, and continuing to inspire through its lifetime. When owned and worn it has a story to tell, memories to remember and a special place in your heart. Mivaan offers jewelry designed by the finest artists who are experienced experts in the field.
+                        <p>Jewelry, spanning generations, endures as cherished family heirlooms. Crafted from experiences, each piece is a timeless work of art, evoking stories and memories. Bhartiya Alankar Jewellers presents jewelry by seasoned artists, masters of their craft, ready to adorn and inspire.
 </p>
                     </div>
                     <div class="col-md-7"></div>
@@ -64,7 +62,7 @@ Every piece of exquisite jewelry is a work of art, created and crafted from expe
             </div>
             <div class="row">
                 <div class="col product first-child">
-                    <img src="assets/Mivaan-Dollar.jpg" alt="mivaan-dollar" width="300">
+                    <img src="assets/bangle1.png" alt="bangle1.png" width="300">
                     <div class="featured-product-content">
                         <h4>High quality craftsmanship</h4>
                         <p>Precision, quality and finish</p>
@@ -72,7 +70,7 @@ Every piece of exquisite jewelry is a work of art, created and crafted from expe
                     </div>
                 </div>
                 <div class="col product last-child">
-                    <img src="assets/Mivaan-Bangle.jpg" alt="mivaan-bangle" width="300">
+                    <img src="assets/bangle2.png" alt="bangle2.png" width="300">
                     <div class="featured-product-content">
                         <h4>Customized design and Attention to Detail</h4>
                         <p>Bespoke pieces with exemplary execution by masterful jewellers.</p>
@@ -87,19 +85,19 @@ Every piece of exquisite jewelry is a work of art, created and crafted from expe
                 <div class="row">
                     <div class="col footer-info-contents">
                         <h4>Exclusivity</h4>
-                        <p>Exclusivity is our forte. We ensure that each chosen creation is one-of-a-kind and an exclusive work of art. Designed, crafted, shaped, hammered, wire-wrapped and molded to perfection by our expert craftsmen, each piece is a testament to its accomplished craftsmanship </p>
+                        <p>Exclusivity is our strength. Each chosen creation is truly one-of-a-kind, an exclusive masterpiece crafted with precision by our skilled artisans, showcasing their exceptional craftsmanship. </p>
                         <a href="gallery.php">View the recommendations</a>
                     </div>
                     <div class="col footer-info-contents">
                         <h4>Customisation</h4>
-                        <p>Your vision, our expertise, our stunning jewelry is sure to please. We offer the best in customized bespoke jewelry. If you have a vision in mind we will bring it life with help of our master jewelers. Custom designing with us is more than a process - it's an experience. 
+                        <p>Your dream, our skill—our exquisite jewelry promises satisfaction. Experience the pinnacle of customized luxury with our master jewelers, transforming your vision into reality. Custom design with us transcends mere process; it's an unforgettable journey.
                         </p>
                         <br>
                         <a href="contact.php">info@bhartiyaalankarjewellers.com</a>
                     </div>
                     <div class="col footer-info-contents">
                         <h4>Expertise</h4>
-                        <p>We not only bring to you the expertise that comes with experience of 9 decades but also bring to you the impeccable blend of the traditional and the modern, by combining handcrafted jewelry techniques with contemporary designs.          </p>
+                        <p>We offer the wisdom of nine decades' experience alongside a seamless fusion of traditional and modern. Our craftsmanship merges timeless techniques with contemporary flair, ensuring exquisite jewelry creations.         </p>
                         <br>
                         <a href="contact.php">Find our store</a>
                     </div>
